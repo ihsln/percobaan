@@ -1,0 +1,15 @@
+@media (max-width:1000px){
+	.anggota{
+		width:50%;
+		margin-bottom: 30px;
+	}
+
+}
+
+@media (max-width: 670px){
+	.anggota{
+		width:100%;
+		margin-bottom: 30px;
+	}
+
+}
