@@ -1,0 +1,54 @@
+*{
+	box-sizing: border-box;
+}
+.container{
+	max-width: 1170px;
+	margin:0 auto;
+	width:100%;
+}
+
+.anggota{
+	width:20%;
+	float:left;
+	padding:0 25px;
+
+}
+.utama h2{
+	font-size:40px;
+	font-weight:bold;
+	color:#283742;
+	padding-bottom: 20px;
+	border-bottom: 3px solid #4200ff;
+	margin-bottom: 60px;
+}
+
+.utama img{
+	width:100%;
+	height:auto;
+	max-height: 194px;
+	border-radius: 10px;
+	margin-bottom: 20px;
+}
+.data{
+
+}
+.nama {
+	font-size: 24px;
+	font-weight: 500;
+	color:#283742;
+	margin-bottom: 20px;
+}
+
+.biodata {
+	font-size: 18px;
+	font-weight: 400;
+	color:rgba(40,55,66,0.6);
+	text-align: justify;
+	margin-bottom: 20px;
+}
+
+.utama a{
+	font-size: 18px;
+	font-weight: 400;
+	color: #4200ff;
+}
